@@ -36,6 +36,9 @@
       margin-bottom: 20px;
       border-left: 5px solid #00aaff;
     }
+    ul {
+      line-height: 1.6;
+    }
     footer {
       text-align: center;
       padding: 20px;
@@ -54,7 +57,11 @@
 <section>
   <h2>About Me</h2>
   <p>
-    I’m a remote bilingual Virtual Assistant based in Corinto, Nicaragua, supporting small teams with structured task management, presentation creation, basic data handling, and remote coordination.
+    I’m a remote Virtual Assistant based in Corinto, Nicaragua, supporting small teams and family businesses with structure, consistency and communication. 
+    My work focuses on organizing workflows, coordinating schedules and suppliers, and helping others communicate clearly through well-designed documents and materials.
+  </p>
+  <p>
+    I’m fully bilingual (English/Spanish), self-taught in many tools, and I enjoy combining precision with creativity — whether it's organizing a week’s worth of operations or turning raw ideas into structured content.
   </p>
 </section>
 
@@ -63,37 +70,45 @@
   <p>
     <strong>Virtual Assistant – The Boulevard Food (Family Business)</strong><br>
     <em>October 2024 – Present</em><br>
-    - Managed daily schedules and supply rotation<br>
-    - Coordinated vendor communication and expense tracking in Excel<br>
-    - Designed branded PowerPoint materials from scripted content<br>
-    - Supported delivery menu updates via WhatsApp campaigns
+    In this part-time role, I’ve helped manage the operational and communication flow of a small fast-food business during its first months. My responsibilities include:
   </p>
+  <ul>
+    <li>Structuring prep and sales schedules (daily opening, supply rotation, task blocks)</li>
+    <li>Creating Excel-based templates to track supply costs, price changes, and daily income</li>
+    <li>Designing branded presentations in PowerPoint from script-based content</li>
+    <li>Drafting and sending professional emails to suppliers for updates and coordination</li>
+    <li>Maintaining the delivery and promotion schedule via WhatsApp Stories</li>
+  </ul>
+  <p><em>This experience has strengthened my skills in real-world coordination, business communication, document clarity, and deadline-following.</em></p>
 </section>
 
 <section>
   <h2>Featured Projects</h2>
 
   <div class="project">
-    <h3>📊 Price Monitoring & Report</h3>
+    <h3>📊 Price Monitoring & Analysis Report</h3>
     <p>
-      Excel-based supply tracking and trend visualization for internal decision-making (June–December 2025).
+      Built a supply tracking and visualization report in Excel for a real business case. This helped the team compare input price changes across five months and adjust strategies before high-season peaks.
     </p>
+    <p><strong>Key skills:</strong> Excel tables, chart creation, summarizing price trends, clear visual layout.</p>
     <a href="(link to Excel file)">View Excel Report</a>
   </div>
 
   <div class="project">
     <h3>📣 PowerPoint Opening Plan</h3>
     <p>
-      Designed a 5-slide PowerPoint using provided business launch strategy scripts (October 2024).
+      Designed a 5-slide PowerPoint presentation outlining the opening strategy of The Boulevard Food. All content (text, structure, logic) was delivered as script. I translated it into a clean, visually structured format using consistent layout and brand tones.
     </p>
+    <p><strong>Key skills:</strong> Layout thinking, PowerPoint design, script adaptation, visual clarity.</p>
     <a href="(link to PowerPoint file)">View Presentation</a>
   </div>
 
   <div class="project">
-    <h3>📬 Supplier Communication Email</h3>
+    <h3>📬 Professional Email to Supplier</h3>
     <p>
-      English email summarizing vendor pricing updates and purchase strategy recommendations.
+      Based on a real-time phone call and internal updates, I wrote a clear, professional English email explaining price changes and suggesting proactive actions. This document reflects my ability to understand, organize, and communicate in business settings.
     </p>
+    <p><strong>Key skills:</strong> Professional tone, summarization, bilingual writing, clarity under pressure.</p>
     <a href="(link to email or PDF version)">View Email</a>
   </div>
 </section>
@@ -101,11 +116,12 @@
 <section>
   <h2>Tools & Skills</h2>
   <ul>
-    <li>Microsoft Excel & PowerPoint</li>
-    <li>Google Calendar, Docs, and Task Boards</li>
-    <li>WhatsApp Business Campaigns</li>
-    <li>Content formatting and email writing (EN/ES)</li>
-    <li>Basic design layout using Canva</li>
+    <li>Google Calendar • Time Blocking • Task Structuring</li>
+    <li>PowerPoint & Canva • Presentation Formatting</li>
+    <li>Excel • Charting • Price Monitoring</li>
+    <li>Email Communication • Bilingual Writing</li>
+    <li>WhatsApp for Business Updates & Scheduling</li>
+    <li>Remote Collaboration • Self-Organization • Project Follow-through</li>
   </ul>
 </section>
 
@@ -119,7 +135,7 @@
 </section>
 
 <footer>
-  <p>© 2025 Irvin Prado. Built for GitHub Pages.</p>
+  <p>© 2025 Irvin Prado. Built for GitHub Pages with purpose and precision.</p>
 </footer>
 
 </body>
