@@ -82,6 +82,26 @@
   <p><em>This experience has strengthened my skills in real-world coordination, business communication, document clarity, and deadline-following.</em></p>
 </section>
 
+<!-- 🔵 NUEVA SECCIÓN DE PROYECTO POWER BI COMO EXPERIENCIA DESTACADA -->
+<section>
+  <h2>Dashboard Development Project</h2>
+  <p>
+    As part of my independent work in process optimization, I designed and developed a fully interactive Power BI dashboard to track weekly ingredient prices and sales performance between June and December 2025.
+  </p>
+  <p>This dashboard was built with real supply data and used to support strategic decision-making during a seasonal pricing shift.</p>
+
+  <ul>
+    <li>Used Power Query and DAX to clean, transform, and model weekly supply data across multiple categories (e.g., tomato, cheese, lettuce)</li>
+    <li>Implemented KPI cards, line graphs, and slicers to enable dynamic filtering by date and ingredient type</li>
+    <li>Enabled stakeholders to visually monitor up to 25% price hikes and prepare early stock actions</li>
+    <li>Reduced time spent on manual weekly reporting by 30%, improving operational focus</li>
+    <li>Designed layout for clarity and usability even for non-technical users</li>
+  </ul>
+
+  <p><strong>📁 Project File:</strong> <a href="(link to Power BI file or PDF)">View Dashboard</a></p>
+</section>
+
+<!-- 🔸 SECCIÓN DE PROYECTOS DESTACADOS -->
 <section>
   <h2>Featured Projects</h2>
 
@@ -112,36 +132,15 @@
     <a href="(link to email or PDF version)">View Email</a>
   </div>
 </section>
-<div class="project">
-  <h3>📈 Power BI Supply & Sales Dashboard</h3>
-  <p>
-    Designed and developed an interactive Power BI dashboard to monitor weekly supply costs and sales performance for a fast-food startup.
-    The tool visualizes trends across key ingredients (e.g., tomato, lettuce, cheese) from June to December 2025, enabling proactive decision-making.
-  </p>
-  <p><strong>Key Actions & Technical Skills:</strong></p>
-  <ul>
-    <li>Imported, cleaned, and modeled data in Power BI Desktop using Power Query and DAX formulas to calculate month-over-month price changes.</li>
-    <li>Created dynamic visualizations (line charts, slicers, KPI cards) to highlight seasonal spikes and cost anomalies.</li>
-    <li>Presented insights via interactive filters and drill-downs, allowing stakeholders to explore supply trends in real time.</li>
-    <li>Automated data refresh to ensure the dashboard stays current and accurate for ongoing operational use.</li>
-  </ul>
-  <p><strong>Business Impact & Outcomes:</strong></p>
-  <ul>
-    <li>Enabled supply management team to identify 25% average seasonal price increase, prompting stock optimization ahead of high-demand months.</li>
-    <li>Reduced weekly manual report creation time by approximately 30%, freeing up time for strategic planning.</li>
-    <li>Improved data-driven decision-making by providing a single source of truth for procurement and pricing discussions.</li>
-  </ul>
-  <a href="(link to Power BI file or PDF)">View Dashboard</a>
-</div>
 
 <section>
   <h2>Tools & Skills</h2>
   <ul>
-    <li>Google Calendar • Time Blocking • Task Structuring</li>
-    <li>PowerPoint & Canva • Presentation Formatting</li>
-    <li>Excel • Charting • Price Monitoring</li>
-    <li>Email Communication • Bilingual Writing</li>
-    <li>WhatsApp for Business Updates & Scheduling</li>
+    <li>Microsoft Excel & PowerPoint</li>
+    <li>Power BI (data modeling, visuals, filters, DAX)</li>
+    <li>Google Calendar, Docs, and Task Boards</li>
+    <li>WhatsApp Business Campaigns</li>
+    <li>Content formatting and email writing (EN/ES)</li>
     <li>Remote Collaboration • Self-Organization • Project Follow-through</li>
   </ul>
 </section>
