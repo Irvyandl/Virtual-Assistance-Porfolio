@@ -80,13 +80,12 @@
 <section>
   <h2>Dashboard Development Project</h2>
   <p>
-    As part of my independent work in process optimization, I designed and developed a fully interactive Power BI dashboard to track weekly ingredient prices and sales performance between June and December 2025.
+    As part of my independent work in process optimization, I designed and developed a fully interactive Power BI dashboard to track yearly sales performance.
   </p>
-  <p>This dashboard was built with real supply data and used to support strategic decision-making during a seasonal pricing shift.</p>
+  <p>This dashboard was built with +7000 rows of raw data and used to support strategic decision-making.</p>
   <ul>
-    <li>Used Power Query and DAX to clean, transform, and model weekly supply data across multiple categories (e.g., tomato, cheese, lettuce)</li>
-    <li>Implemented KPI cards, line graphs, and slicers to enable dynamic filtering by date and ingredient type</li>
-    <li>Enabled stakeholders to visually monitor up to 25% price hikes and prepare early stock actions</li>
+    <li>Used Power Query and DAX to clean, transform, and model weekly supply data across multiple categories</li>
+    <li>Implemented visual cards, line graphs, and slicers and enabled dynamic filtering by date and region.</li>
     <li>Reduced time spent on manual weekly reporting by 30%, improving operational focus</li>
     <li>Designed layout for clarity and usability even for non-technical users</li>
   </ul>
@@ -106,7 +105,7 @@
   <div class="project">
     <h3>📣 PowerPoint Opening Plan</h3>
     <p>
-      Designed a 5-slide PowerPoint presentation outlining the opening strategy of The Boulevard Food. All content (text, structure, logic) was delivered as script. I translated it into a clean, visually structured format using consistent layout and brand tones. I also generated **AI-prompted visuals and color harmony** to enhance visual appeal and coherence.
+      Designed a 5-slide PowerPoint presentation outlining the opening strategy of The Boulevard Food. All content (text, structure, logic) was delivered as script. I translated it into a clean, visually structured format using consistent layout and brand tones. I also generated **AI-prompted visuals** to enhance visual appeal and coherence.
     </p>
     <p><strong>Key skills:</strong> Layout thinking, PowerPoint design, script adaptation, AI-generated visuals, visual consistency.</p>
     <a href="https://github.com/Irvyandl/Virtual-Assistance-Porfolio/raw/refs/heads/main/The%20Boulevard%20Food%20%E2%80%93%20Plan%20de%20Apertura%20(.pptx">View Presentation</a>
@@ -114,7 +113,7 @@
   <div class="project">
     <h3>📬 Professional Email to Supplier</h3>
     <p>
-      Based on a real-time phone call and internal updates, I wrote a clear, professional English email explaining price changes and suggesting proactive actions. This document reflects my ability to understand, organize, and communicate in business settings.
+      Based on a real-time phone call and internal updates, I wrote a clear, professional English email explaining price changes and suggesting proactive actions. This document reflects my ability to understand, organize, and communicate in business settings (Email was translated from spanish to English for this portfolio).
     </p>
     <p><strong>Key skills:</strong> Professional tone, summarization, bilingual writing, clarity under pressure.</p>
     <a href="https://drive.google.com/file/d/187fx0IxGjvZrAJhLYL1GA33_OAPonlFi/view?usp=drive_link">View Email</a>
