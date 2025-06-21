@@ -137,7 +137,7 @@
   <p>
     📧 <strong>Email:</strong> irvyandl18@gmail.com<br>
     🌐 <strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/irvin-prado-6961b1363">Visit Profile</a><br>
-    📁 <strong>GitHub:</strong> <a href="https://irvyandl.github.io/Virtual-Assistance-Porfolio/">View Source</a>
+    📁 <strong>GitHub:</strong> <a href="https://drive.google.com/file/d/11Uzd6yIqWjlYPgAuTrWWVIvmgaUTOh-w/view?usp=drive_link">View Resume</a>
   </p>
 </section>
 
