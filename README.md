@@ -142,7 +142,7 @@
 </section>
 
 <footer>
-  <p>© 2025 Irvin Prado. Built for GitHub Pages with purpose and precision.</p>
+  <p>© 2025 Irvin Prado. Built with purpose and precision.</p>
 </footer>
 
 </body>
