@@ -8,7 +8,7 @@
     body {
       font-family: Arial, sans-serif;
       background: #ffffff;
-      color: #1a1a1a;
+      color: #000000;
       margin: 0;
       padding: 0;
     }
@@ -16,33 +16,28 @@
       background-color: #FDFBF7;
       padding: 20px;
       text-align: center;
-      color: black;
+      color: #000000;
     }
     section {
       padding: 30px;
       max-width: 900px;
       margin: auto;
     }
-    h1, h2 {
-      color: #000000;
-    }
-    a {
-      color: #000000;
-      font-weight: bold;
-    }
+    h1 { color: #000000; }
+    h2 { color: #003f5c; }
+    a { color: #003f5c; font-weight: bold; }
     .project {
-      background: #f0f0f0;
+      background: #FDFBF7;
       padding: 20px;
       margin-bottom: 20px;
       border-left: 5px solid #00aaff;
     }
-    ul {
-      line-height: 1.6;
-    }
+    ul { line-height: 1.6; }
     footer {
       text-align: center;
       padding: 20px;
-      background: #f5f5f5;
+      background: #F5F5F5;
+      color: #000000;
       font-size: 0.9em;
     }
   </style>
@@ -82,14 +77,12 @@
   <p><em>This experience has strengthened my skills in real-world coordination, business communication, document clarity, and deadline-following.</em></p>
 </section>
 
-<!-- 🔵 NUEVA SECCIÓN DE PROYECTO POWER BI COMO EXPERIENCIA DESTACADA -->
 <section>
   <h2>Dashboard Development Project</h2>
   <p>
     As part of my independent work in process optimization, I designed and developed a fully interactive Power BI dashboard to track weekly ingredient prices and sales performance between June and December 2025.
   </p>
   <p>This dashboard was built with real supply data and used to support strategic decision-making during a seasonal pricing shift.</p>
-
   <ul>
     <li>Used Power Query and DAX to clean, transform, and model weekly supply data across multiple categories (e.g., tomato, cheese, lettuce)</li>
     <li>Implemented KPI cards, line graphs, and slicers to enable dynamic filtering by date and ingredient type</li>
@@ -97,14 +90,11 @@
     <li>Reduced time spent on manual weekly reporting by 30%, improving operational focus</li>
     <li>Designed layout for clarity and usability even for non-technical users</li>
   </ul>
-
   <p><strong>📁 Project File:</strong> <a href="(link to Power BI file or PDF)">View Dashboard</a></p>
 </section>
 
-<!-- 🔸 SECCIÓN DE PROYECTOS DESTACADOS -->
 <section>
   <h2>Featured Projects</h2>
-
   <div class="project">
     <h3>📊 Price Monitoring & Analysis Report</h3>
     <p>
@@ -113,16 +103,14 @@
     <p><strong>Key skills:</strong> Excel tables, chart creation, summarizing price trends, clear visual layout.</p>
     <a href="(link to Excel file)">View Excel Report</a>
   </div>
-
   <div class="project">
     <h3>📣 PowerPoint Opening Plan</h3>
     <p>
-      Designed a 5-slide PowerPoint presentation outlining the opening strategy of The Boulevard Food. All content (text, structure, logic) was delivered as script. I translated it into a clean, visually structured format using consistent layout and brand tones.
+      Designed a 5-slide PowerPoint presentation outlining the opening strategy of The Boulevard Food. All content (text, structure, logic) was delivered as script. I translated it into a clean, visually structured format using consistent layout and brand tones. I also generated **AI-prompted visuals and color harmony** to enhance visual appeal and coherence.
     </p>
-    <p><strong>Key skills:</strong> Layout thinking, PowerPoint design, script adaptation, visual clarity.</p>
+    <p><strong>Key skills:</strong> Layout thinking, PowerPoint design, script adaptation, AI-generated visuals, visual consistency.</p>
     <a href="(link to PowerPoint file)">View Presentation</a>
   </div>
-
   <div class="project">
     <h3>📬 Professional Email to Supplier</h3>
     <p>
@@ -138,6 +126,7 @@
   <ul>
     <li>Microsoft Excel & PowerPoint</li>
     <li>Power BI (data modeling, visuals, filters, DAX)</li>
+    <li>AI-prompted visuals for presentations</li>
     <li>Google Calendar, Docs, and Task Boards</li>
     <li>WhatsApp Business Campaigns</li>
     <li>Content formatting and email writing (EN/ES)</li>
